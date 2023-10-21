@@ -12,7 +12,7 @@
 ![Screenshot_24](https://github.com/vsal19/Lab4Web./assets/115516624/b83bac8f-e9d8-4873-9cf2-dc8d717cccaa)
 
 #### Code HTML :
-<!DOCTYPE html>
+[Uploa<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -34,7 +34,7 @@
         </nav>
         <section id="about">
             <div class="row">
-                <img src="faisal.jpg.jpeg" title="HERLIYANSYAH" alt="Foto Faisal" width="200px
+                <img src="faisal.jpg.jpeg" title="faisal" alt="Foto Faisal" width="200px
                 " class="image-circle" style="float: left; border: 2px solid black;">
                 <h1>Faisal</h1>
                 <p>Nama saya Muhamad Faisal Ilham, Saya adalah seorang mahasiswa Universitas Pelita Bangsa,Jurusan Teknik Informatika. Saya lahir di Bekasi,19 Juni 2004. dan saya sedang mempelajari html css & js sebagai jalan menuju front end developer</p>
@@ -45,4 +45,6 @@
         </footer>
     </div>
 </body>
-</html>
+</html>ding about.html…]()
+
+#### Code CSS
