@@ -12,8 +12,8 @@
 ![Screenshot_24](https://github.com/vsal19/Lab4Web./assets/115516624/b83bac8f-e9d8-4873-9cf2-dc8d717cccaa)
 
 #### Code HTML :
-
-'''<!DOCTYPE html
+"""
+<!DOCTYPE html
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -46,7 +46,7 @@
         </footer>
     </div>
 </body>
-</html>'''
+</html>"""
 
 #### Code CSS
 '''
