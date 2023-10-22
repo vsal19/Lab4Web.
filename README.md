@@ -3,16 +3,17 @@
 # Muhamad Faisal Ilham
 ## TI.22.A3
 
-### Tugas : 
+## Tugas : 
 1. Tambahkan Layout untuk menu About=> buat single layout yang berisi deskripsi, portfolio, dll
 2. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll
 
-### Layout Menu About
+### 1. Layout Menu About
 ![Screenshot_24](https://github.com/vsal19/Lab4Web./assets/115516624/b83bac8f-e9d8-4873-9cf2-dc8d717cccaa)
 
 #### Code HTML :
-[Uploa<!DOCTYPE html>
+'''
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -45,6 +46,36 @@
         </footer>
     </div>
 </body>
-</html>ding about.html…]()
+</html>
+'''
 
 #### Code CSS
+'''
+#about{
+    background-color: #e4e4e5;
+    padding: 50px 20px;
+    margin-bottom: 20px;
+}
+#about h1{
+    margin-bottom: 10px;
+    font-size: 35px;
+    position: relative;
+    left: 15px;
+}
+#about p{
+    margin-bottom: 20px;
+    font-size: 18px;
+    padding: 30px;
+    line-height: 25px;
+    position: relative;
+    left: 15px;
+'''
+
+### 1. Layout Menu Contact
+
+#### Code HTML
+
+#### Code CSS
+
+
+
