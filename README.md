@@ -8,7 +8,7 @@
 2. Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll
 
-### 1. Layout Menu About
+## 1. Layout Menu About
 ![Screenshot_24](https://github.com/vsal19/Lab4Web./assets/115516624/b83bac8f-e9d8-4873-9cf2-dc8d717cccaa)
 
 #### Code HTML :
@@ -71,7 +71,7 @@
     left: 15px;
 ```
 
-### 1. Layout Menu Contact
+## 2. Layout Menu Contact
 ![Screenshot_25](https://github.com/vsal19/Lab4Web./assets/115516624/3d92d9c8-6176-479c-b1ba-b071f97fa421)
 
 #### Code HTML
