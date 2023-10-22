@@ -72,6 +72,7 @@
 ```
 
 ### 1. Layout Menu Contact
+![Screenshot_25](https://github.com/vsal19/Lab4Web./assets/115516624/3d92d9c8-6176-479c-b1ba-b071f97fa421)
 
 #### Code HTML
 ```
@@ -114,6 +115,36 @@
 ```
 
 #### Code CSS
+```/* KONTAK */
+#kontak{
+    background-color: #e4e4e5;
+    padding: 20px 20px;
+    margin-bottom: 20px;
+}
+.input,
+.msg, .area{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid white;
+    box-sizing: border-box;
+    font-size: 15px;
+    margin-bottom: 20px;
+    
+}
 
+button{
+    font-size: 15px;
+    background-color: #3f3f3f;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 20px;
+    margin-top: 8px;
+}
 
+button:hover{
+    opacity: 0,9;
+    background-color: #1f5faa;
+}
+```
 
+Terima Kasih
